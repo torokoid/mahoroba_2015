@@ -57,6 +57,9 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/6754.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/6844.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/7804.JPG" alt="" width="229" height="318" border="0" /><br/>
+<br><section>
+ <a href="https://opa.cig2.imagegateway.net/s/cp/FLADAG4ziJD" target="_blank">2015年、ス～さんの記録、PassWD:mahoroba</a>
+       </section><br>
 
 <!-- フッタ -->
  <footer>
