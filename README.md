@@ -2,7 +2,7 @@
 <html lang="ja">
  <head>
  <meta charset="UTF-8">
- <title>まほろば_2017</title>
+ <title>まほろば_2015</title>
 
 <style type="text/css">
  p {
@@ -34,6 +34,7 @@ body { background-color: #ccffcc; }
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2015年の記録</h3>
+<a href="/mahoroba/0568.JPG" class="preview"><img src="/mahoroba/0568.JPG" alt="河原でのバーベキュー" width="450" /></a>
 <img src="https://torokoid.github.io/mahoroba/0568.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/6638.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/6645.JPG" alt="" width="318" height="229" border="0" />
