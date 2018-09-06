@@ -44,7 +44,7 @@ body::before {
 
 <body>
 
-<h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 2015/08/09 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 2015/08/09 !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2015年の記録</h3>
