@@ -32,7 +32,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/mahoroba/180.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/mahoroba/6754.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -45,6 +45,7 @@ body::before {
 <body>
 
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 2015/08/09 !!!</marquee></span></h1>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2015年の記録</h3>
 <a href="/mahoroba/0568.JPG" class="preview"><img src="/mahoroba/0568.JPG" alt="河原でのバーベキュー" width="350" /></a>
@@ -96,6 +97,7 @@ body::before {
 <img src="https://torokoid.github.io/mahoroba/6844.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/7804.JPG" alt="" width="229" height="318" border="0" /><br/>
 -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><section>
  <a href="https://opa.cig2.imagegateway.net/s/cp/FLADAG4ziJD" target="_blank">2015/08/09 まほろば鮎パーティー、PassWD:mahoroba</a>
        </section><br>
