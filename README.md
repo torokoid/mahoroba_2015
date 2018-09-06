@@ -22,6 +22,19 @@ font-size: 1.5em;
 
 body { background-color: #ccffcc; }
 
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/mahoroba/180.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
 
 </style>
 <link rel="stylesheet" href="../style.css/" type="text/css">
@@ -31,7 +44,7 @@ body { background-color: #ccffcc; }
 
 <body>
 
-<h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
+<h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 2015/08/09 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2015年の記録</h3>
 <a href="/mahoroba/0568.JPG" class="preview"><img src="/mahoroba/0568.JPG" alt="河原でのバーベキュー" width="350" /></a>
